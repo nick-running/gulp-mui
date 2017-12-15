@@ -1,6 +1,6 @@
-# zj-prj
+# gulp-mui
 
-> 项目模板
+> gulp-mui and mui project template
 
 ## Build Setup
 
